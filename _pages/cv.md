@@ -17,23 +17,6 @@ redirect_from:
 
 ---
 
-### Contact Information
-
-**Email:**  
-- <i class="fas fa-envelope" style="color: #007bff;"></i> [muhammad.nawaz@student.uts.edu.au](mailto:muhammad.nawaz@student.uts.edu.au)  
-- <i class="fas fa-envelope" style="color: #007bff;"></i> [muhammad.nawaz.uts@gmail.com](mailto:muhammad.nawaz.uts@gmail.com)  
-- <i class="fas fa-envelope" style="color: #007bff;"></i> [nawazkhan.cui2018@gmail.com](mailto:nawazkhan.cui2018@gmail.com)  
-
-**Phone:**  
-- <i class="fas fa-phone" style="color: #28a745;"></i> 0466715446  
-
-**WhatsApp:**  
-- <i class="fab fa-whatsapp" style="color: #25d366;"></i> [+92 344 8149445](https://wa.me/923448149445)  
-
-**Working Rights in Australia:**  
-- Full-Time  
-
----
 
 ### Objective
 A young and motivated individual eager to expand and utilize expertise to contribute to the development of cutting-edge research and development groups. Seeking a highly competitive and dynamic position at an established firm with long-term career growth, providing the best opportunity for future development of abilities, skills, and research expertise. Self-motivated, able to work effectively with a team while also taking initiative when working alone. Looking forward to becoming a valuable member of a new research and development team to work on real-world problems.
@@ -55,20 +38,20 @@ A young and motivated individual eager to expand and utilize expertise to contri
 
 **Doctor of Philosophy – Data Science and Artificial Intelligence**  
 *Data Science Institute, Faculty of Engineering and IT*  
-University of Technology Sydney, Australia  
+[University of Technology Sydney](https://www.uts.edu.au/) Sydney, Australia  
 *2023 – 2027 (expected)*  
 Thesis Theme: Analytics  
 
 **Master of Science - Computer Science**  
 *Department of Computer Science*  
-COMSATS University Islamabad, Pakistan  
+[COMSATS University](https://www.comsats.edu.pk/) Islamabad, Pakistan  
 *2018 - 2021*  
 CGPA: 3.38 / 4.00  
 Thesis Title: “MDVA-GAN: Multi-Domain Visual Attribution Generative Adversarial Networks”
 
 **Bachelor of Science - Software Engineering**  
 *Department of Computer Science and Information Technology*  
-University of Sargodha, Pakistan  
+[University of Sargodha](https://su.edu.pk/) Sargodha, Pakistan  
 *2014 - 2018*  
 CGPA: 3.45 / 4.00  
 Final Year Project (FYP) Title: “eBook Voice Reader in User Voice”
@@ -98,7 +81,7 @@ Final Year Project (FYP) Title: “eBook Voice Reader in User Voice”
 
 **Research Assistant**  
 *Medical Imaging and Diagnostic Laboratory, National Centre of Artificial Intelligence (MIDL-NCAI)*  
-COMSATS University Islamabad, Islamabad, Pakistan  
+[COMSATS University Islamabad](https://www.comsats.edu.pk/), Islamabad, Pakistan  
 *2021 - 2023*  
 - Conducted research on developing and training deep learning models for automatic identification of lung diseases using Chest X-Ray radiographs.
 - Worked with medical imaging datasets like CheXpert, TBX11K, and COVID-19 to detect and categorize diseases.
@@ -107,7 +90,7 @@ COMSATS University Islamabad, Islamabad, Pakistan
 
 **Lecturer**  
 *Faculty of Engineering, Science and Technology*  
-Hamdard University Islamabad Campus, Pakistan  
+[Hamdard University](https://www.hamdard.edu.pk/) Islamabad Campus, Pakistan  
 *2023*  
 - Taught a pivotal course in computer vision, emphasizing both theoretical knowledge and practical proficiency.
 - Equipped students with a comprehensive understanding of computer vision fundamentals and deep learning algorithms.
@@ -139,7 +122,18 @@ Hamdard University Islamabad Campus, Pakistan
 
 ### Awards and Achievements
 
-- Fully Funded Doctor of Philosophy Scholarship: International Research and UTS President’s Scholarship awarded by University of Technology Sydney, Australia
-- Fully Funded Master Scholarship: The Punjab Educational Endowment Fund Scholarship awarded by the Government of Punjab, Pakistan
-- Fully Funded Bachelor Scholarship: Need Based Scholarship awarded by Higher Education Commission Pakistan
-- Prime Minister’s Laptop:
+- **Fully Funded Doctor of Philosophy Scholarship:**  
+  International Research and UTS President’s Scholarship  
+  *Awarded by University of Technology Sydney, Australia*
+
+- **Fully Funded Master Scholarship:**  
+  The Punjab Educational Endowment Fund Scholarship  
+  *Awarded by the Government of Punjab, Pakistan*
+
+- **Fully Funded Bachelor Scholarship:**  
+  Need Based Scholarship  
+  *Awarded by Higher Education Commission Pakistan*
+
+- **Prime Minister’s Laptop:**  
+  *Awarded by Prime Minister of Pakistan*
+
