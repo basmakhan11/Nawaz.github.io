@@ -21,7 +21,7 @@ repository               : "basmakhan11.github.io/Nawaz.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Nawaz.jpeg"
   name             : "Muhammad Nawaz"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate in Data Science at UTS, Australia"
