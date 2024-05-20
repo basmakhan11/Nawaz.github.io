@@ -48,11 +48,14 @@ RESEARCH INTERESTS
 
 Education
 ======
-* 2023-27:
-  =======
-  Doctor of Philosophy – Data Science and Artificial Intelligence
+  Doctor of Philosophy                                     2023-27
+  =
+  Data Science and Artificial Intelligence
   Data Science Institute, Faculty of Engineering and IT, University of Technology Sydney, Australia
-  Thesis Theme: Analytics
+  
+  Thesis Theme:
+  =
+  Analytics
 * 2018-21:
   ========
   Master of Science - Computer Science
