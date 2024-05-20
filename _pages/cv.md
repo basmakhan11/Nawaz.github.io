@@ -40,13 +40,13 @@ forward to becoming a valuable member of a new research and development team to 
 
 RESEARCH INTERESTS
 ==========
-▪ Artificial Intelligence
-▪ Deep Learning
-▪ Machine Learning
-▪ Data Analytics
-▪ Computer Vision
-▪ Medical Image Analysis
-▪ Open-Set Recognition
+* Artificial Intelligence
+* Deep Learning
+* Machine Learning
+* Data Analytics
+* Computer Vision
+* Medical Image Analysis
+* Open-Set Recognition
 
 Education
 ======
@@ -65,11 +65,12 @@ FYP Title: “eBook Voice Reader in User Voice”
 
 Work experience
 ======
-*Medical Imaging and Diagnostic Laboratory, National Centre of Artificial Intelligence (MIDL-NCAI) COMSATS University Islamabad, Islamabad, Pakistan
-  *2021-23: Research Assistant
+* Medical Imaging and Diagnostic Laboratory, National Centre of Artificial Intelligence (MIDL-NCAI) COMSATS University Islamabad, Islamabad, Pakistan
+  * 2021-23: Research Assistant
   My experience as a research assistant at COMSATS University Islamabad's MIDL-NCAI Lab, focusing on developing and training deep learning models for automatic identification of lung diseases using Chest X-Ray radiographs. I worked with medical imaging datasets like CheXpert, TBX11K, and COVID-19, aiming to detect and categorize diseases and develop Explainable Artificial Intelligence (XAI) systems. My research contributions include weakly supervised learning, generative AI, XAI, and data augmentation, particularly in training algorithms to visualize disease effects and generate pixel-level labels from image-level labels.
-*Faculty of Engineering, Science and Technology, Hamdard University Islamabad Campus, Pakistan
-  *2023: Lecturer
+
+* Faculty of Engineering, Science and Technology, Hamdard University Islamabad Campus, Pakistan
+  * 2023: Lecturer
    I had the privilege to serve as a lecturer at Hamdard University Islamabad Campus, within the esteemed Faculty of Engineering, Science, and Technology in Pakistan. In this role, I was entrusted with instructing a pivotal course in computer vision, aiming not only to impart theoretical knowledge but also to instill practical proficiency among students. My primary focus was to equip students with a comprehensive understanding of computer vision fundamentals while delving into the intricacies of deep learning algorithms. By integrating theoretical concepts with hands-on projects, I provided a learning environment that fostered both knowledge acquisition and practical application. Through this approach, students not only grasped the rudiments of computer vision but also gained practical experience by engaging in projects that applied cutting-edge deep learning algorithms. This experience reinforced my belief in the significance of combining theory with practical implementation to nurture well-rounded professionals in the field of technology.
 
   
