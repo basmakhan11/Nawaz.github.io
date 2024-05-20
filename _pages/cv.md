@@ -23,16 +23,6 @@ A young and motivated individual eager to expand and utilize expertise to contri
 
 ---
 
-### Research Interests
-- Artificial Intelligence
-- Deep Learning
-- Machine Learning
-- Data Analytics
-- Computer Vision
-- Medical Image Analysis
-- Open-Set Recognition
-
----
 
 ### Education
 
@@ -96,6 +86,17 @@ Final Year Project (FYP) Title: “eBook Voice Reader in User Voice”
 - Equipped students with a comprehensive understanding of computer vision fundamentals and deep learning algorithms.
 - Integrated theoretical concepts with hands-on projects to provide a learning environment that fostered practical application.
 - Guided students in engaging projects that applied cutting-edge deep learning algorithms, reinforcing theoretical concepts with practical experience.
+
+---
+
+### Research Interests
+- Artificial Intelligence
+- Deep Learning
+- Machine Learning
+- Data Analytics
+- Computer Vision
+- Medical Image Analysis
+- Open-Set Recognition
 
 ---
 
