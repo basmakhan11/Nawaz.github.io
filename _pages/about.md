@@ -13,7 +13,7 @@ Feel free to contact me at muhammad.nawaz@student.uts.edu.au 😊
 
 Highlights:
 ======
-*Developed AI-based solutions for medical imaging at the [Medical Imaging and Diagnostic Lab of National Center of Artificial Intelligence](https://ncai.pk/core-labs/) ex-research fellow at [COMSATS University](https://www.comsats.edu.pk/) Islamabad, Pakistan.
+Developed AI-based solutions for medical imaging at the [Medical Imaging and Diagnostic Lab of National Center of Artificial Intelligence](https://ncai.pk/core-labs/) ex-research fellow at [COMSATS University](https://www.comsats.edu.pk/) Islamabad, Pakistan.
 Strong foundation in Python programming and deep learning frameworks.Experienced in teaching deep learning and computer vision ex-lecturer at [Hamdard University](https://www.hamdard.edu.pk/) Pakistan.Enthusiastic about leveraging data science and AI to solve complex problems and make a positive impact.
 Open to connecting with data science professionals and exploring new opportunities.
 
