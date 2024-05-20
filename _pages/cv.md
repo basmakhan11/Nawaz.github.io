@@ -11,17 +11,26 @@ redirect_from:
 
 Doctor of Philosophy at Data Science Institute, Faculty of Engineering and IT,
 University of Technology Sydney, Australia
+
 Ex-Lecturer (visiting faculty) at Engineering Science and Technology,
 Hamdard University Islamabad, Pakistan
+
 Ex-Research Assistant at Medical Imaging and Diagnostic Laboratory,
 National Center of Artificial Intelligence,
 COMSATS University Islamabad, Pakistan
+
 Email: muhammad.nawaz@student.uts.edu.au
+
 Email: muhammad.nawaz.uts@gmail.com
+
 Email: nawazkhan.cui2018@gmail.com
+
 Contact No: 0466715446
+
 WhatsApp: +92 344 8149445
+
 Working rights in Australia: Full-Time
+
 
 Education
 ======
