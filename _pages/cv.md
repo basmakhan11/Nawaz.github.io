@@ -44,7 +44,7 @@ Thesis Theme: Analytics
 
 **Master of Science - Computer Science**  
 *Department of Computer Science*  
-[COMSATS University](https://www.comsats.edu.pk/) Islamabad, Pakistan  
+[COMSATS University Islamabad](https://www.comsats.edu.pk/) Islamabad, Pakistan  
 *2018 - 2021*  
 CGPA: 3.38 / 4.00  
 Thesis Title: “MDVA-GAN: Multi-Domain Visual Attribution Generative Adversarial Networks”
@@ -90,7 +90,7 @@ Final Year Project (FYP) Title: “eBook Voice Reader in User Voice”
 
 **Lecturer**  
 *Faculty of Engineering, Science and Technology*  
-[Hamdard University](https://www.hamdard.edu.pk/) Islamabad Campus, Pakistan  
+[Hamdard University Islamabad](https://www.hamdard.edu.pk/) Islamabad Campus, Pakistan  
 *2023*  
 - Taught a pivotal course in computer vision, emphasizing both theoretical knowledge and practical proficiency.
 - Equipped students with a comprehensive understanding of computer vision fundamentals and deep learning algorithms.
