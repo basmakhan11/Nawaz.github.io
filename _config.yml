@@ -25,8 +25,8 @@ author:
   name             : "Muhammad Nawaz"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate in Data Science at UTS, Australia"
-  location         : "University of Technology Sydney, Australia"
-  employer         : "Riverwood, New South Wales, Australia"
+  location         : "University of Technology Sydney"
+  employer         : "Riverwood,New South Wales, Australia"
   uri              : # URL
   email            : "muhammad.nawaz@student.uts.edu.au" 
 
