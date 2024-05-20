@@ -34,9 +34,7 @@ Working rights in Australia: Full-Time
 
 Objective
 ======
-A young and motivated individual who is eager to expand and use his expertise to contribute to the development of a cuttingedge research and development group. To get a highly competitive and dynamic position at an established firm with long-term career growth that will provide me with the best opportunity for future development of my abilities, skills, and research 
-expertise. Self-motivated, able to work effectively with a team while also taking initiative while working alone. I'm looking 
-forward to becoming a valuable member of a new research and development team to work on real-world problems.
+A young and motivated individual who is eager to expand and use his expertise to contribute to the development of a cutting-edge research and development group. To get a highly competitive and dynamic position at an established firm with long-term career growth that will provide me with the best opportunity for future development of my abilities, skills, and research expertise. Self-motivated, able to work effectively with a team while also taking initiative while working alone. I'm looking forward to becoming a valuable member of a new research and development team to work on real-world problems.
 
 RESEARCH INTERESTS
 ==========
@@ -50,17 +48,23 @@ RESEARCH INTERESTS
 
 Education
 ======
-* 2023-27: Doctor of Philosophy – Data Science and Artificial Intelligence
-Data Science Institute, Faculty of Engineering and IT, University of Technology Sydney, Australia
-Thesis Theme: Analytics
-* 2018-21: Master of Science - Computer Science
-Department of Computer Science, COMSATS University Islamabad, Pakistan
-CGPA: 3.38 / 4.00
-Thesis Title: “MDVA-GAN: Multi-Domain Visual Attribution Generative Adversarial Networks”
-*2014-18: Bachelor of Science - Software Engineering
-Department of Computer Science and Information Technology, University of Sargodha, Pakistan
-CGPA: 3.45 / 4.00 
-FYP Title: “eBook Voice Reader in User Voice”
+* 2023-27:
+  =======
+  Doctor of Philosophy – Data Science and Artificial Intelligence
+  Data Science Institute, Faculty of Engineering and IT, University of Technology Sydney, Australia
+  Thesis Theme: Analytics
+* 2018-21:
+  ========
+  Master of Science - Computer Science
+  Department of Computer Science, COMSATS University Islamabad, Pakistan
+  CGPA: 3.38 / 4.00
+  Thesis Title: “MDVA-GAN: Multi-Domain Visual Attribution Generative Adversarial Networks”
+* 2014-18
+  =======
+  Bachelor of Science - Software Engineering
+  Department of Computer Science and Information Technology, University of Sargodha, Pakistan
+  CGPA: 3.45 / 4.00 
+  FYP Title: “eBook Voice Reader in User Voice”
 
 
 Work experience
