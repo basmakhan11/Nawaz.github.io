@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Nawaz"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Muhammad Nawaz"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Nawaz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Muhammad Nawaz"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "PhD candidate in Data Science at UTS, Australia"
+  location         : "University of Technology Sydney, Australia"
+  employer         : " UTS, Australia |"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "muhammad.nawaz@student.uts.edu.au" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
