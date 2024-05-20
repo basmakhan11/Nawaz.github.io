@@ -1,12 +1,11 @@
 ---
 permalink: /contact/
-title: Contact
+title: Contact Information
 author_profile: true
 redirect_from:
   - /contact.html
 ---
 
-# Contact Information
 
 - **Email:**
   - muhammad.nawaz@student.uts.edu.au
